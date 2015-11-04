@@ -18,7 +18,9 @@
         android:id="@+id/textView2"
         android:textColor="#492365"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        android:textSize="@dimen/abc_action_button_min_width_overflow_material" />
 
     <ListView
         android:layout_width="wrap_content"
